@@ -1,13 +1,13 @@
 {
-  "launcherVersion": "1.0.0",
-  "packages": [
+  "version": "1.0.0",
+  "mods": [
     {
-      "id": "hypercars",
-      "nombre": "AAPV Hypercars",
+      "id": "wec2026",
+      "nombre": "AAPV Endurance Series",
       "version": "1.0.0",
-      "archivo": "Hypercars.zip",
-      "obligatorio": true,
-      "descripcion": "Mod oficial Hypercars AAPV."
+      "descripcion": "Mod oficial de la categoría Hypercar + GT3.",
+      "url": "https://github.com/AapvAsociacionargentina/AAPVNexusContent/releases/download/v1.0.0/AAPV_Endurance.zip",
+      "size": "0 MB"
     }
   ]
 }
