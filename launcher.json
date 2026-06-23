@@ -1,0 +1,13 @@
+{
+  "launcherVersion": "1.0.0",
+  "packages": [
+    {
+      "id": "hypercars",
+      "nombre": "AAPV Hypercars",
+      "version": "1.0.0",
+      "archivo": "Hypercars.zip",
+      "obligatorio": true,
+      "descripcion": "Mod oficial Hypercars AAPV."
+    }
+  ]
+}
